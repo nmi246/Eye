@@ -22,6 +22,11 @@
     - https://youtu.be/v9WgJHXCToY
 
 - astigmatism
+- prism lenses
+- plano lenses
+- maddox rod (lens)
+- pinhole occluder
+- 
 
 
 - Binocular vision:
@@ -45,12 +50,26 @@
     
     
 ## spectacle lens materials: 
-- plastic: polycarbonate, 
+- plastic: polycarbonate, standard plastic
 - glass: 
 - what materials, coatings, etc do Campus Specs, Specsavers, Opsm offer? 
+    - sun tint filter
+    - UV filter
+    - polarised
+    - Anti-reflection, scratch-resistant hard coating
+- photochromic lens
+
+Optometrists:
+- Specsavers:
+    -
+    -
+    -
+- CampusSpecs:
+- OPSM:
 
 
-UV absorption in glass vs platic: 
+
+## UV absorption in glass vs platic: 
 - https://www.google.co.nz/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjWtM6ktp77AhWG7jgGHdIyD8cQFnoECAoQAw&url=https%3A%2F%2Fwww.researchgate.net%2Ffigure%2FAverage-UV-and-visible-light-transmittance-for-glass-and-plastic-windscreens_fig1_235201203&usg=AOvVaw1s3uSG7bI-3PAvUE6GP4BC
 
 
@@ -66,6 +85,7 @@ UV absorption in glass vs platic:
 ## optometry tools:
 - Trail case/set
 - retinascope
+- lenzometer: determine lens power
 
 
 
