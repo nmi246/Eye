@@ -18,7 +18,7 @@
 - indenfity spectacle lens power: 
     - https://youtu.be/hTvufihjl20
 
-- stenoscopic slit: to correct astigmatism
+- stenoscopic slit: (to correct astigmatism)
     - https://youtu.be/v9WgJHXCToY
 
 - astigmatism: 
