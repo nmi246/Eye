@@ -50,7 +50,8 @@
     
     
 ## spectacle lens materials: 
-- plastic: polycarbonate, standard plastic
+- plastic: polycarbonate, standard plastic, CR-39 plastic, Polycarbonate plastic, 1.67 High Index plastic, Trivex
+    - https://vistaeyecareco.com/lens-materials/  
 - glass: 
 - what materials, coatings, etc do Campus Specs, Specsavers, Opsm offer? 
     - sun tint filter
