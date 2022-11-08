@@ -43,8 +43,15 @@ questions:
     - UVB
     - UVC 
     
-- Visit Andrew Huberman and Mathew walker notes on Sleep and Vision  
+    
+spectacle lens materials: 
+- plastic: polycarbonate, 
+- glass: 
+- what materials, coatings, etc do Campus Specs, Specsavers, Opsm offer? 
 
+    
+- Visit Andrew Huberman and Mathew walker notes on Sleep and Vision  
+- Paul saladino And Andy ____ on UV, light, sleep, etc  
 
 ## optometry tools:
 
