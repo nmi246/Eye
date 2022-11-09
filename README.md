@@ -60,13 +60,10 @@
     - Anti-reflection, scratch-resistant hard coating
 - photochromic lens
 
-Optometrists:
-- Specsavers:
-    -
-    -
-    -
+## Optometrists:
+- Specsavers: Plastic lenses only
 - CampusSpecs:
-- OPSM:
+- OPSM: Plastic lenses only
 
 
 
