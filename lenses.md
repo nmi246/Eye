@@ -45,7 +45,7 @@ Trivex:
 - optically clear.
 
 
-99% of lens are now made of glass. 
+99% of lenses nowadays are NOT made of glass. Before the 1960's most lenses were glass.  
 
 source: https://www.youtube.com/watch?v=aL7NB8saqY0&list=PLgSpn2wTDbU-hYNIvC72Bzp6XcKKeT-09&index=20&t=1s&ab_channel=TheSpectacleFactory
 
