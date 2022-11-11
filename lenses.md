@@ -3,7 +3,7 @@
 | --              | Glass   | Polycarbonate | Trivex | Plastic (CR39) | 1.67 High Index | 1.74 High Index | 
 |--|--|--|--|--|--|--| 
 | Refractive index| 1.9     |               |        | 1.5               |                 |                 | 
-|  |  |  |  |  |  |  | 
+| Density         |  |  |  |  |  |  | 
 |  |  |  |  |  |  |  | 
 |  |  |  |  |  |  |  | 
 |  |  |  |  |  |  |  | 
