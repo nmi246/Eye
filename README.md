@@ -77,23 +77,9 @@
 - Paul saladino And Andy Mant on UV, light, sleep, etc
     - https://www.youtube.com/watch?v=mTQOmkg9IKI&t=11s&ab_channel=CarnivoreMD
 
-
-
-
-## optometry tools:
-- Trail case/set
-- retinascope
-- lenzometer: determine lens power
-
-
-
 ## optometry glossary: 
 | Term | Definition |
 |--|--|
 |  |  |
 |  |  |
-|  |  |
-|  |  |
 
-
-  
