@@ -22,3 +22,8 @@ Other layers which may be added on:
 - hydrophobic: anti-water (i.e., water resistant)
 - scratch resistant
 - 
+
+## High quality lens manufactureres:
+- Hoya
+- Zeiss
+- Essilor
