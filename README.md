@@ -1,5 +1,60 @@
 # All thing on the human eye and optometry: eye anatomy, trial lens/set, types of lenses, optometry equipemnt, etc: 
 
+
+## Diopter reduction:
+
+Current glasses			
+| Glasses 0	|SPH	|CYL|	AXIS|
+|--------|-------|-------|------|
+| RE	| -2	| -1.25	| 160 |
+| LE	| 0.75	| -4.25	| 180 |
+			
+			
+| Glasses 1	| SPH | CYL	    | AXIS |
+|-------|-------|-----------|------|
+| RE	| -1.5  |	-0.75	| 160  |
+| LE	| 0.25  |	-3.25	| 180  |
+			
+			
+| Glasses 2	| SPH | CYL	  | AXIS |
+|-------|--------|--------|------|
+| RE	| -1	 | -0.25  | 160  |
+| LE	| 0      | -2.25  | 180  |
+			
+			
+| Glasses 3	| SPH	 | CYL   | AXIS | 
+|-----------|--------|-------|------|
+| RE	    | -0.5	 | 0	 | 160  |
+| LE	    | 0	     | -1.5  | 180  | 
+			
+			
+| Glasses 4	| SPH	| CYL	| AXIS | 
+|-----------|-------|-------|------|
+| RE	    | 0	    | 0	    |  160 |
+| LE	    | 0	    | -1	|  180 |
+			
+			
+| Glasses 5	| SPH	| CYL	| AXIS
+|-----------|-------|-------|------|
+| RE	    | 0	 | 0	| 160 |
+| LE	    | 0	 | -0.5	| 180 |
+			
+			
+| Glasses 6 | 	SPH | 	CYL | 	AXIS | 
+|--------|-------|-------|------|
+| RE	 | 0	 | 0	 | 160  | 
+| LE	 | 0	 | 0	 | 180  | 
+
+Total cost of all glasses:
+min: 6 x 200 = $1,200
+max: 6 x 500 = $3,000
+
+
+![image](https://user-images.githubusercontent.com/42329930/204086335-228d911d-d51e-4c3e-a3f9-42f13b73d0eb.png)
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------
+
 - understanding Sphere, Cylinder, and Axis: 
     - https://www.laramyk.com/resources/education/lens-form-and-theory/lens-form-sphere-cylinder-and-axis/#:~:text=In%20addition%20to%20the%20spherical,cylinder%20curve%20is%20a%20line
   
