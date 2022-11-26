@@ -49,10 +49,6 @@ Total cost of all glasses:
 min: 6 x 200 = $1,200
 max: 6 x 500 = $3,000
 
-
-![image](https://user-images.githubusercontent.com/42329930/204086335-228d911d-d51e-4c3e-a3f9-42f13b73d0eb.png)
-
-
 -------------------------------------------------------------------------------------------------------------------------------------------------
 
 - understanding Sphere, Cylinder, and Axis: 
