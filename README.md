@@ -1,12 +1,12 @@
 # All thing on the human eye and optometry: eye anatomy, trial lens/set, types of lenses, optometry equipemnt, etc: 
 
-Date of prescription: xx/yy/zzzz (1st Prescription)
+Date of prescription: xx/yy/zzzz (1st Prescription)  
 [insert image]
 
-![image](https://user-images.githubusercontent.com/42329930/204157186-26ff80b8-6f8e-417a-9965-aa5656e7ef5d.png)
+![image](https://user-images.githubusercontent.com/42329930/204157186-26ff80b8-6f8e-417a-9965-aa5656e7ef5d.png)  
 
-Date of prescription: 16/09/2020 (3rd Prescription)
-![image](https://user-images.githubusercontent.com/42329930/204157142-dac0efb6-6727-4fea-86b6-0846c8895102.png)
+Date of prescription: 16/09/2020 (3rd Prescription)  
+![image](https://user-images.githubusercontent.com/42329930/204157142-dac0efb6-6727-4fea-86b6-0846c8895102.png)  
 
 
 ## Diopter reduction:
