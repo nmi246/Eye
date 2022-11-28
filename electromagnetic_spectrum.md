@@ -1,4 +1,4 @@
-https://science.nasa.gov/ems/09_visiblelight#:~:text=What%20is%20the%20visible%20light,from%20380%20to%20700%20nanometers.
+https://science.nasa.gov/ems/09_visiblelight#:~:text=What%20is%20the%20visible%20light,from%20380%20to%20700%20nanometers.  
 visible light:
 - Typically, the human eye can detect wavelengths from 380 to 700 nanometers.
 
