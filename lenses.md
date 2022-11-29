@@ -31,7 +31,7 @@
 
 - A concave lens of flint glass is commonly combined with a convex lens of crown glass to produce an **achromatic doublet**. The dispersions of the glasses partially compensate for each other, producing reduced chromatic aberration compared to a singlet lens with the same focal length.
 
-
+<details>
 ## CR-39 Plastic: Columbia Resin #39
 - The 39th formula of a thermosetting plastic developed by the Columbia Resins project in 1940.
 - history: initial
@@ -49,7 +49,7 @@ Optics:
 - CR-39 is about half the weight of glass with an index of refraction only slightly lower than that of crown glass, and its high Abbe number yields low chromatic aberration.
 - Poly(allyl diglycol carbonate) (PADC) is a plastic commonly used in the manufacture of eyeglass lenses alongside the material PMMA (polymethyl methacrylate). 
 - The monomer is allyl diglycol carbonate (ADC). The term CR-39 technically refers to the ADC monomer, but is more commonly used to refer to the finished plastic.
-
+</details>
 
 
 
@@ -74,15 +74,18 @@ Optics:
 
 source: https://www.youtube.com/watch?v=aL7NB8saqY0&list=PLgSpn2wTDbU-hYNIvC72Bzp6XcKKeT-09&index=20&t=1s&ab_channel=TheSpectacleFactory
 
+
+
 ## Other Materials:
 
 ### Flint Glass
 - Flint glass is combination of silicon dioxide (SiO2) with lead or potassium. It creates a relatively high refractive index and high degree of light dispersing power compared to other types of glass. Flint glasses are arbitrarily defined as having an Abbe number of 50 to 55 or less. Flint glasses have refractive indices ranging between 1.45 and 2.00.As a result, this blend of glass is characterized by its brilliance and luminosity. This property makes flint glass especially desirable in the production of lenses, optical instruments, and prisms. In modern flint glass, lead oxides are replaced with other metal oxides such as titanium dioxide and zirconium dioxide without significantly altering the optical properties of the glass.
 - https://escooptics.com/pages/flint-glass#:~:text=Flint%20glass%20is%20combination%20of,50%20to%2055%20or%20less.
 
-
 ### Poly(methyl methacrylate) (PMMA)
--
+- https://en.wikipedia.org/wiki/Poly(methyl_methacrylate)
+
+
 
 
 ## MISC:
