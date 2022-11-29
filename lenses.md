@@ -11,7 +11,7 @@
 |  |  |  |  |  |  |  | 
 
 
-## glass:
+## Glass
 - very optically clear
 - very scratch resistant
 - very heavy (CON)
@@ -63,7 +63,7 @@ Optics:
 - 
 
 
-## Trivex:
+## Trivex
 - invented for military aircraft 
 - high Abbe value, good as CR39, close to glass but not quite as good.
 - optically clear.
