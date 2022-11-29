@@ -44,7 +44,7 @@ Sources:
 
 
 ### Optical Quartz Glass (Synthetic UV-Grade Fused Silica) Optical Transmission
-&nsbp  ; ![image](https://user-images.githubusercontent.com/42329930/204485834-beaf2ccf-e4e3-4630-b87e-a5838adab1ac.png)
+&nsbp;   ![image](https://user-images.githubusercontent.com/42329930/204485834-beaf2ccf-e4e3-4630-b87e-a5838adab1ac.png)
 
 
 
