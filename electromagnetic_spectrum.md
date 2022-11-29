@@ -26,7 +26,7 @@ Sources:
 
 
 
-## UV-VIS absorption / tranmission of various lens materials:
+## UV-VIS optical tranmission/absorption of various lens/materials:
 
 ### Optical glass:
 
@@ -41,5 +41,10 @@ Sources:
 
 
 ### High index 1.74:
+
+
+### Optical Quartz Glass (Synthetic UV-Grade Fused Silica) Optical Transmission
+![image](https://user-images.githubusercontent.com/42329930/204485834-beaf2ccf-e4e3-4630-b87e-a5838adab1ac.png)
+
 
 
