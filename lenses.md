@@ -81,6 +81,9 @@ source: https://www.youtube.com/watch?v=aL7NB8saqY0&list=PLgSpn2wTDbU-hYNIvC72Bz
 - https://escooptics.com/pages/flint-glass#:~:text=Flint%20glass%20is%20combination%20of,50%20to%2055%20or%20less.
 
 
+### Poly(methyl methacrylate) (PMMA)
+-
+
 
 ## MISC:
 - Refractive index: how much a meterial bends light. 
