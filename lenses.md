@@ -31,7 +31,8 @@
 
 - A concave lens of flint glass is commonly combined with a convex lens of crown glass to produce an **achromatic doublet**. The dispersions of the glasses partially compensate for each other, producing reduced chromatic aberration compared to a singlet lens with the same focal length.
 
-<details><p>
+<details><summary>CR-39 Plastic: Columbia Resin #39</summary>
+<p>
 ## CR-39 Plastic: Columbia Resin #39
 - The 39th formula of a thermosetting plastic developed by the Columbia Resins project in 1940.
 - history: initial
