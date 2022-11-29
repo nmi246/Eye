@@ -28,4 +28,18 @@ Sources:
 
 ## UV-VIS absorption / tranmission of various lens materials:
 
-CR39 plastic:
+### Optical glass:
+
+
+### CR39 plastic:
+
+
+### High index 1.6:
+
+
+### High index 1.67:
+
+
+### High index 1.74:
+
+
