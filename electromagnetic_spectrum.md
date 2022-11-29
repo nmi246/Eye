@@ -23,3 +23,9 @@ the Earth’s atmosphere.
 Sources: 
 - https://smd-prod.s3.amazonaws.com/science-pink/s3fs-public/atoms/files/Tour-of-the-EMS-TAGGED-v7_0.pdf
 - https://science.nasa.gov/ems/09_visiblelight#:~:text=What%20is%20the%20visible%20light,from%20380%20to%20700%20nanometers.
+
+
+
+## UV-VIS absorption / tranmission of various lens materials:
+
+CR39 plastic:
