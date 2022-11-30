@@ -31,8 +31,7 @@
 
 - A concave lens of flint glass is commonly combined with a convex lens of crown glass to produce an **achromatic doublet**. The dispersions of the glasses partially compensate for each other, producing reduced chromatic aberration compared to a singlet lens with the same focal length.
 
-<details><summary>CR-39 Plastic: Columbia Resin #39</summary>
-<p>
+
 ## CR-39 Plastic: Columbia Resin #39
 - The 39th formula of a thermosetting plastic developed by the Columbia Resins project in 1940.
 - history: initial
@@ -50,8 +49,7 @@ Optics:
 - CR-39 is about half the weight of glass with an index of refraction only slightly lower than that of crown glass, and its high Abbe number yields low chromatic aberration.
 - Poly(allyl diglycol carbonate) (PADC) is a plastic commonly used in the manufacture of eyeglass lenses alongside the material PMMA (polymethyl methacrylate). 
 - The monomer is allyl diglycol carbonate (ADC). The term CR-39 technically refers to the ADC monomer, but is more commonly used to refer to the finished plastic.
-</p>
-</details>
+
 
 
 
