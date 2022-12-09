@@ -1,4 +1,5 @@
-# Info on Zenni Optical lenses
+<!---------------------------------------------------------------------------------------->
+# Zenni Optical (www.zennioptical.com)
 
 Website: https://www.zennioptical.com
 
@@ -18,3 +19,7 @@ https://www.zennioptical.com/glasses-lenses
 
 #### How to measure your PD:
 https://www.zennioptical.com/measuring-pd-infographic
+
+
+<!---------------------------------------------------------------------------------------->
+# Glasses USA (www.glassesusa.com)
