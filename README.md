@@ -1,5 +1,9 @@
 # All thing on the human eye and optometry: eye anatomy, trial lens/set, types of lenses, optometry equipemnt, etc: 
 
+
+optical cross?
+
+
 Date of prescription: xx/yy/zzzz (1st Prescription)  
 [insert image]
 
